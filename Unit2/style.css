@@ -176,4 +176,10 @@ div.form {
   padding: 20px;
 }
 
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+}
+
 /*# sourceMappingURL=style.css.map */
